@@ -1,4 +1,4 @@
-# Calculadora de IMC
+# Marcador de pontos para o Truco
 
 Aplicativo de uma calculadora de IMC criado para disciplina de Programação Mobile com Flutter.
 
