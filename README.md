@@ -33,4 +33,4 @@ Plugin utilizado neste repositório.
 
 | Plugin | Pub |
 |--------|-----|
-| [wakelock](./packages/wakelock/) | [![pub package](https://img.shields.io/pub/v/android_alarm_manager.svg)](https://pub.dev/packages/wakelock) |
+| [wakelock](./packages/wakelock/) | [![pub package](https://img.shields.io/pub/v/wakelock.svg)](https://pub.dev/packages/wakelock) |
