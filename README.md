@@ -27,3 +27,10 @@ Aplicativo para marcar os pontos no jogo de truco criado para disciplina de Prog
 
 :heavy_check_mark: Instalar o plugin Screen e adicionar um código para deixar a tela sempre ativa enquanto joga.
 
+
+## Plugins
+Plugin utilizado neste repositório.
+
+| Plugin | Pub |
+|--------|-----|
+| [android_alarm_manager](./packages/android_alarm_manager/) | [![pub package](https://img.shields.io/pub/v/android_alarm_manager.svg)](https://pub.dev/packages/android_alarm_manager) |
