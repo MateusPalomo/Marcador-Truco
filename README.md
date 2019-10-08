@@ -33,4 +33,4 @@ Plugin utilizado neste repositório.
 
 | Plugin | Pub |
 |--------|-----|
-| [wakelock 0.1.3](./packages/wakelock/) | [![pub package](https://img.shields.io/pub/v/wakelock.svg)](https://pub.dev/packages/wakelock) |
+| [https://github.com/creativecreatorormaybenot/wakelock](./packages/wakelock/) | [![pub package](https://img.shields.io/pub/v/wakelock.svg)](https://pub.dev/packages/wakelock) |
