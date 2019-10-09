@@ -47,3 +47,5 @@ Wakelock.enable();
 
 // ....
 ```
+
+Você também precisa habilitar suas permissões no ```dart AndroidManifest.xml ```
