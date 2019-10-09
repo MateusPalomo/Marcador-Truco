@@ -36,4 +36,4 @@ Plugins utilizados neste repositório.
 | Wakelock |[![pub package](https://img.shields.io/pub/v/wakelock.svg)](https://pub.dev/packages/wakelock) |
 
 ## Uso
-# Wakelock
+### Wakelock
