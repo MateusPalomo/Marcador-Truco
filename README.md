@@ -29,8 +29,8 @@ Aplicativo para marcar os pontos no jogo de truco criado para disciplina de Prog
 
 
 ## Plugins
-Plugin utilizado neste repositório.
+Plugins utilizados neste repositório.
 
 | Plugin | Pub |
 |--------|-----|
-| Wakelock | [![pub package](https://img.shields.io/pub/v/wakelock.svg)](https://pub.dev/packages/wakelock) |
+| Share plugin | [![pub package](https://img.shields.io/pub/v/share.svg)](https://pub.dev/packages/share) |
