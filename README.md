@@ -37,7 +37,7 @@ Plugins utilizados neste repositório.
 
 ## Uso
 ### Wakelock
-```
+```dart
 import 'package:wakelock/wakelock.dart';
 // ...
 
