@@ -48,9 +48,9 @@ Wakelock.enable();
 // ....
 ```
 
-Você também precisa habilitar suas permissões no 
+Você também precisa habilitar suas permissões no ```dart AndroidManifest.xml ```
 ```dart 
-AndroidManifest.xml
+
 
 <uses-permission android:name="android.permission.WAKE_LOCK" />
 ```
