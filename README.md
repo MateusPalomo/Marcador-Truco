@@ -33,4 +33,4 @@ Plugins utilizados neste repositório.
 
 | Plugin | Pub |
 |--------|-----|
-| Share plugin | [![pub package](https://img.shields.io/pub/v/share.svg)](https://pub.dev/packages/share) |
+| Wakelock | [![pub package](https://img.shields.io/pub/v/wakelock.svg)](https://pub.dev/packages/wakelock) |
