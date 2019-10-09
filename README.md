@@ -39,8 +39,11 @@ Plugins utilizados neste repositório.
 ### Wakelock
 ```dart
 import 'package:wakelock/wakelock.dart';
+
+void main() => runApp(MyApp());
 // ...
 
-// The following line will enable the Android and iOS wakelock.
 Wakelock.enable();
+
+// ....
 ```
